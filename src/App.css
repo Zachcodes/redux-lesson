@@ -23,6 +23,24 @@
   color: #61dafb;
 }
 
+button {
+  padding: 10px 12px;
+  background-color: #0ee40e;
+  font-size: 16px;
+  color: black;
+  border-radius: 5px;
+  margin: 0px 5px;
+  outline: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+input {
+  border: 1px solid black;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
